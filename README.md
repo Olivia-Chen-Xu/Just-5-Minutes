@@ -1,13 +1,23 @@
 # Just 5 Minutes
 
-This project was built by Olivia Xu, Lily Salem, Tina Wang and Khloe Ramdhan
-Technologies used: `React`, `Firebase`, `Material UI`
+This project was built within 36 hours at the SuperPOSITRON hackathon.
+
+It was the winner of the "Best Use of Google Cloud" category. 
+
+Technologies used: `React`, `Firebase`, `Material UI`, `Figma`(for prototype)
 
 ## Description
-We realized that many times we weren’t making the best use of the small fragments of time throughout our day. Instead of spending them in
-The problem is that most of us aren’t designating a set time to indulge in new activities and hobbies we would like to pursue because we tell ourselves that we don’t have time or that we’d rather be spending that time towards ‘working’. But how many times have you caught yourself scrolling through Instagram or Twitter in between meetings or right before lunch? In those small fragments of time, we carelessly spend precious minutes that could be put towards doing something far more productive.
+We realized that many times we weren’t making the best use of the small fragments of time throughout our day. 
 
-We wanted to help break the ‘busier than we think we are’ mindset/mentality with the ‘Just 5 Minutes’ web app. This productivity tool is designed to help users delegate their time more wisely and act towards their personal goals instead of putting them off. 
+Instead of indulging in new activities and hobbies, we just simply tell ourselves that we don’t have time. 
+
+But how many times have you caught yourself scrolling through Instagram or Twitter in between meetings or right before lunch? 
+
+In those small fragments of time(usually 5 minutes), we carelessly spend precious minutes that could be put towards doing something far more productive.
+
+We wanted to help break the ‘busier than we think we are’ mindset/mentality with the ‘Just 5 Minutes’ web app. 
+
+This productivity tool is designed to help users delegate their time more wisely and act towards their personal goals instead of putting them off. 
 
 ## Features
 * Secure authentication system
@@ -18,5 +28,11 @@ We wanted to help break the ‘busier than we think we are’ mindset/mentality 
 * Built in 5 minute timer (with the ability to keep going!) and progress bar for each task
 
 ## Demo
-Visit [here](https://superpositron-project.web.app/)
+Watch video demo: https://www.youtube.com/watch?v=56ERpQUFPRs&t=15s
+
+Try the web yourself: https://superpositron-project.web.app/
+
+Figma prototype: https://www.figma.com/file/NFPUJeXR7XmpDgJfoJjB5Y/SuperPOSITRON-Prototype?node-id=0%3A1
+
+Devpost: https://devpost.com/software/just-5-minutes
 
