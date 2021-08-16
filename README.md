@@ -21,11 +21,30 @@ This productivity tool is designed to help users delegate their time more wisely
 
 ## Features
 * Secure authentication system
-* Dashboard with goals from each bubble you're a part of
+
+![image](https://user-images.githubusercontent.com/85253089/129519910-76c969fa-c12e-4a6d-a2ac-068be7f2bb6e.png)
+
+* Dashboard with goals from each bubble you're a part of. Goals shared and accessible across multiple user accounts
+
+![image](https://user-images.githubusercontent.com/85253089/129520002-7b73f9ba-108f-4776-803c-872fe625c047.png)
+
+* Built in 5 minute timer (with the ability to keep going!) and progress bar for each goal
+
+![image](https://user-images.githubusercontent.com/85253089/129520260-1b339a69-f02c-4d62-a26a-96abf8e9b69b.png)
+
+* Add new goals
+
+![image](https://user-images.githubusercontent.com/85253089/129521019-2d3e2eab-126d-421e-84cc-ec1a7afb3a26.png)
+
 * Bubble search page to find and join bubbles you're interested in by title or category
+
+![image](https://user-images.githubusercontent.com/85253089/129520920-9b821870-8f56-488e-9055-859a81424853.png)
 * Awards page to help users feel motivated by their achievements
-* Shared goals accessible across multiple user accounts
-* Built in 5 minute timer (with the ability to keep going!) and progress bar for each task
+
+ ![image](https://user-images.githubusercontent.com/85253089/129521052-8901c363-6e54-48b9-9915-8ced7205aa8d.png)
+* User profile page with log out functionality
+
+![image](https://user-images.githubusercontent.com/85253089/129521123-2cebe656-0864-45f6-972a-12fd381cabb9.png)
 
 ## Demo
 Watch video demo: https://www.youtube.com/watch?v=56ERpQUFPRs&t=15s
