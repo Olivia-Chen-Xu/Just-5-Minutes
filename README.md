@@ -1,10 +1,10 @@
-# Just 5 Minutes
+# Just 5 Minutes 🌟 🌟 5️⃣ 5️⃣ ⏰ ⏰
 
-This project was built within 36 hours at the SuperPOSITRON hackathon.
+:dizzy: :dizzy: This project was built within 36 hours at the SuperPOSITRON hackathon.
 
-It was the winner of the "Best Use of Google Cloud" category. 
+:clap: :clap: It was the winner of the "Best Use of Google Cloud" category. 
 
-Technologies used: `React`, `Firebase`, `Material UI`, `Figma`(for prototype)
+👩‍💻 👩‍💻 Technologies used: `React`, `Firebase`, `Material UI`, `Figma`(for prototype)
 
 ## Description
 We realized that many times we weren’t making the best use of the small fragments of time throughout our day. 
